@@ -21,6 +21,7 @@ A conversion and modification of the esx_drugs resourcefor that adds new drugs a
 3. Process the drug on the location of the proccess
 
 > **Screenshots:**
+
 https://imgur.com/a/vYvK5Z6
 
 > **Credits:**
