@@ -1,12 +1,12 @@
 # qb-drugpickup
-A conversion and modification of the esx_drugs resourcefor that adds new drugs and feautures for the QBCore Framework.
+A conversion and modification of the esx_drugs resource for that adds new drugs and features for the QBCore Framework.
 
 > **Features:**
 * 3 different drug fields (weed, cocaine, meth)
-* Procesing location for all 3 drugs
+* Processing location for all 3 drugs
 * Extra items for processing (plastic baggie, ziploc baggie)
 * Easy to read and modify code
-* Opimised
+* Optimized
 
 > **Set Up:**
 
