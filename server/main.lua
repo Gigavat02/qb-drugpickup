@@ -23,7 +23,7 @@ RegisterServerEvent('qb-weedpicking:pickedUpChemicals', function()
 end)
 
 -- Cocaine
-RegisterServerEvent('qb-weedpicking:pickedUpCoca', function()
+RegisterServerEvent('qb-weedpicking:pickedUpCocas', function()
 	local src = source
 	local Player = QBCore.Functions.GetPlayer(src)
 
