@@ -143,6 +143,7 @@ CreateThread(function()
 					isPickingUp = false
 				end, function()
 					ClearPedTasks(PlayerPedId())
+					isPickingUp = false
 				end)
 			end
 		else		
@@ -193,6 +194,7 @@ CreateThread(function()
 					isPickingUp = false
 				end, function()
 					ClearPedTasks(PlayerPedId())
+					isPickingUp = false
 				end)
 			end
 		else		
@@ -243,6 +245,7 @@ CreateThread(function()
 					isPickingUp = false
 				end, function()
 					ClearPedTasks(PlayerPedId())
+					isPickingUp = false
 				end)
 			end
 		else		
